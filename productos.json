@@ -1,0 +1,13 @@
+[
+	{
+		"nombre": "Memoria",
+		"precio": 1234.56,
+		"stock": 888,
+		"marca": "Automotive",
+		"categoria": "Rustic Cotton Bike",
+		"detalles": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
+		"foto": "https://loremflickr.com/640/480/sports",
+		"envio": true,
+		"id": "2"
+	},
+]
